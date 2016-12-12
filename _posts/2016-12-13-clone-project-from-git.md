@@ -1,9 +1,12 @@
 ---
 
-layout: post title: "Start posting!!"
+layout: post
+
+title: "Start proj9"
 
 categories: ["proj9"]
----------------------
+
+---
 
 What I did...
 
