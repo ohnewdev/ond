@@ -12,7 +12,9 @@ email: ohnewdev@gmail.com
 #write html inside the double quotes to display in jumbotron
 description: "<h3>Let's make!!</h3>"
 
-
+document_heading: %Y-%m-%d
+daily_heading: %d
+timestamp: %R
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ohnewdev.github.io/ond" # the base hostname & protocol for your site
