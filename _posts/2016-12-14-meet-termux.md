@@ -1,7 +1,9 @@
----
 layout: post
-title: "dev"
+
+title: "How to post github through android"
+
 categories: ["dev"]
+
 ---
 
 What I did...
@@ -19,10 +21,10 @@ The one thing that I get from termux app  is there is a way that I can use **GIT
 So I did as the following steps.
 
 > 1.     install termux in android play store
-2. install git with apt 
+> 2. install git with apt 
  - apt install git
  - apt install vim / emacs
-3. clone my github page, git push with vim
+> 3. clone my github page, git push with vim
 
 It works well, from now on, I can post through my phone. 
 
@@ -30,10 +32,22 @@ But it is not easy to make a markdown file because I need the real-time preview 
 So I installed **MarkdownX** in play store.
 
 So my plan is ~
+
 > 1.  type post in the **MarkdownX**
-2. copy the context and make a .md file on /_post  in the Termux.
-3.  git push to my github-pages
+> 2. copy the context and make a .md file on /_post  in the Termux.
+> 3.  git push to my github-pages
+
 
 
 This is the first post that I write down through my phone & bluetooth keyboard.
+
+
+
+
+
+
+
+
+
+
 
