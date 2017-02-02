@@ -26,9 +26,11 @@ SQL> select /*+ ORDERED USE_HASH(e) */
 -  JSP 에서 get 방식으로 한글 전달시 (post는 잘 전달 된다)
 
 보내는 쪽에서
+
 ```javascript
   encodeURIComponent( v_text );
 ```
+
   받는 쪽은 필요 없음.
 
 
